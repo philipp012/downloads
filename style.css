@@ -39,3 +39,7 @@ header {
     color: white;
     text-align: center;
 }
+
+.card-header {
+    font-size: 25px;
+}
