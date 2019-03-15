@@ -43,3 +43,8 @@ header {
 .card-header {
     font-size: 25px;
 }
+
+#particles-js {
+    background: firebrick;
+    height: 600px;
+}
