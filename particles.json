@@ -1,7 +1,7 @@
 {
   "particles": {
     "number": {
-      "value": 150
+      "value": 75
     },
     "color": {
       "value": "#f44336"
